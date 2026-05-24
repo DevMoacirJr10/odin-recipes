@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(249, 237, 220);
+  color: rgb(123, 122, 122);
+}
+
+body.page-home {
+  text-align: center;
+}
+
+h2,
+.title-lasanha,
+.title-hamburguer,
+.title-bolo,
+.img {
+  text-align: center;
+}
+
+.voltar-home,
+.photo {
+  text-align: center;
+  display: block;
+}
